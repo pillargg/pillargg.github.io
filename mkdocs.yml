@@ -1,0 +1,13 @@
+site_name: Pillar Open Source
+
+theme:
+  name: "material"
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+  logo: pillargg.png
+  favicon: pillargg.png
+
+plugins:
+- search
