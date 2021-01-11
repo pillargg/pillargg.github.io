@@ -1,6 +1,6 @@
 # The Pillar Open Source Initiative
 
-Here at Pillar, we strive to provide with as much of the tools that we use on a daily basis as possible, and wish to both grow our software via open source as well as help others grow their open source software. All of our open source projects are released under permissive licenses, allowing you to use the code within the project at your own discretion. Unless otherwise stated, all of our code is released under the [MIT License](https://pillar.github.io/MIT-License).
+Here at Pillar, we strive to provide with as much of the tools that we use on a daily basis as possible, and wish to both grow our software via open source as well as help others grow their open source software. All of our open source projects are released under permissive licenses, allowing you to use the code within the project at your own discretion. Unless otherwise stated, all of our code is released under the [MIT License](https://pillargg.github.io/MIT-License).
 
 ## Current Projects
 
