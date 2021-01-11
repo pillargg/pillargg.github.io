@@ -11,7 +11,6 @@ mkdocs==1.1.2
 mkdocs-material==6.2.4
 mkdocs-material-extensions==1.0.1
 nltk==3.5
-pkg-resources==0.0.0
 Pygments==2.7.3
 pymdown-extensions==8.1
 PyYAML==5.3.1
