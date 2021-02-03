@@ -10,6 +10,10 @@ Here is a list of all of our current open source projects that we maintain.
     - [PyPi](https://pypi.org/project/pillar-youtube-upload/) 
     - Official [Docs](https://docs.pillar.gg/youtube-upload/)
 
+- [pillar-api-wrapper](https://github.com/pillargg/pillar-api-wrapper/)
+    - [PyPi](https://pypi.org/project/pillar-api-wrapper/)
+    - Official [Docs](https://docs.pillar.gg/pillar-api-wrapper/)
+
 - Our fork of [Twitch-Python](https://github.com/pillargg/Twitch-Python)
     - [PyPi](https://pypi.org/project/pillar-twitch-python)
     - [Basic Usage](https://github.com/pillargg/Twitch-Python#usage)
