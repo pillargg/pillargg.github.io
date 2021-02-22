@@ -6,11 +6,18 @@ Here at Pillar, we strive to provide the open source community with as much of t
 
 Here is a list of all of our current open source projects that we maintain.
 
-- [youtube-upload](https://github.com/pillargg/youtube-upload) 
+- [youtube-upload](https://github.com/pillargg/youtube-upload)
+    - Upload YouTube videos with three lines of Python!
     - [PyPi](https://pypi.org/project/pillar-youtube-upload/) 
     - Official [Docs](https://docs.pillar.gg/youtube-upload/)
 
+- [pillar-queue-wrapper](https://github.com/pillargg/pillar-queue-wrapper/)
+    - Use AWS SQS with ease!
+    - [PyPi](https://pypi.org/project/pillar-queue-wrapper/)
+    - Official [Docs](https://docs.pillar.gg/pillar-queue-wrapper/)
+
 - [pillar-api-wrapper](https://github.com/pillargg/pillar-api-wrapper/)
+    - Our internal HTTP API.
     - [PyPi](https://pypi.org/project/pillar-api-wrapper/)
     - Official [Docs](https://docs.pillar.gg/pillar-api-wrapper/)
 
