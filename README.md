@@ -36,3 +36,7 @@ All internal projects are licensed under [GNU GPL v3](https://www.gnu.org/licens
     - [PyPi](https://pypi.org/project/pillar-mongodb-wrapper/)
     - Official [Docs](https://docs.pillar.gg/pillar-mongodb-wrapper/)
 
+- [twitch_chat_analysis](https://github.com/pillargg/twitch_chat_analysis)
+    - Our internal chat analysis algorithms.
+    - [PyPi](https://pypi.org/project/pillaralgos/)
+    - Official [Docs](https://github.com/pillargg/twitch_chat_analysis/blob/main/prod/README.md)
