@@ -6,8 +6,8 @@ theme:
     scheme: slate
     primary: black
     accent: deep purple
-  logo: pillargg.png
-  favicon: pillargg.png
+  logo: pillargg1.png
+  favicon: pillargg1.png
 
 plugins:
 - search
